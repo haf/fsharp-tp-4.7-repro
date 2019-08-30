@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HelloWorld", "HelloWorld\HelloWorld.fsproj", "{51A00000-C2E1-4CD5-9E33-E9D0DEED104B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Provider", "Provider\Provider.fsproj", "{EB94ADDD-52E5-4823-9DE3-F3A1D55A5586}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Provider.DesignTime", "Provider.DesignTime\Provider.DesignTime.fsproj", "{91869373-1D93-46C4-AD89-B8F330278A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51A00000-C2E1-4CD5-9E33-E9D0DEED104B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A00000-C2E1-4CD5-9E33-E9D0DEED104B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A00000-C2E1-4CD5-9E33-E9D0DEED104B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A00000-C2E1-4CD5-9E33-E9D0DEED104B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91869373-1D93-46C4-AD89-B8F330278A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91869373-1D93-46C4-AD89-B8F330278A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91869373-1D93-46C4-AD89-B8F330278A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91869373-1D93-46C4-AD89-B8F330278A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
