@@ -2,5 +2,5 @@ source https://api.nuget.org/v3/index.json
 clitool paket
 framework auto-detect
 version 5.216.0
-nuget FSharp.Core ~> 4.7
-nuget Logary ~> 5.0.0-rc.11
+nuget FSharp.Core 4.6.2
+nuget Logary ~> 5.0.0-rc.10
