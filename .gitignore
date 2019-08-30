@@ -4,3 +4,4 @@ paket-files/
 packages/
 .paket/
 .idea/
+*.log

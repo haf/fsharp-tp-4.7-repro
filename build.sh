@@ -4,4 +4,4 @@ if [[ ! -d .paket ]]; then
 fi
 dotnet restore
 dotnet build Provider.DesignTime
-dotnet build
+dotnet build -verbosity:d "$@" | tee "log-$(date '+%d-%m-%y-%H-%M-%S').log"
