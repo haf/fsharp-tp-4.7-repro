@@ -3,3 +3,8 @@
 Repro
 
     ./build.sh
+
+In environment:
+
+- macOS
+- .Net Core 2.2.401
